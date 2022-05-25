@@ -1,0 +1,29 @@
+.topo{
+    background-color: #fbfdf3;
+    display: flex;
+    align-items: flex-end;
+    height: 200px;  
+}
+
+body{    
+    background-color: #f4ed8d;
+}
+
+.logo{
+    padding-right: 600px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+  
+}
+
+.centrosite{
+    background-color: #f7e997;
+    height: 400px;
+    padding-top: 300px;
+}
+
